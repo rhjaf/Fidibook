@@ -99,11 +99,15 @@
 
 ```
 .\adb install .\SimpleInk.apk
+.\adb install taaghche.latest.apk
+.\adb install Root-Explorer-4.12.3(FarsRoid.com).apk
 ```
 
 ⚙️ کار:
 
 نصب لانچر simpleink بر روی فیدیبوک
+صب مدیریت کننده فایل RootExplrorer بر روی فیدیبوک
+صب طاقچه بر روی فیدیبوک (ورژنی که با نسخه ۴ اندروید فیدیبوک سازگار است)
 
 🖨 خروجی مطلوب:
 
